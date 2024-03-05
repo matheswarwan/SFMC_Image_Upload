@@ -6,7 +6,7 @@ SAPDomains = ['mail.example.com'] # Enter your SAP domain or other domains from 
 tse = '<ENTER>' # Just the TSE value; do not include rest.marketingcloudapis.com or auth.marketingcloudapis.com
 clientId = '<ENTER>'
 clientSecret = '<ENTER>'
-mid = 515010937
+mid = 0 # Enter your MID / account ID number
 
 file_name_to_process = '<Your_html_file_name_to_process>' # Enter your email file name that contains valid html and image urls hosted in external / non-SFMC system
 
